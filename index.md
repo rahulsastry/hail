@@ -13,6 +13,6 @@ The Healthcare Access and Innovation Laboratory (HAIL) is conceptualized to appl
 3.	Headache 
 4.	Dementia
 5.	CNS Neoplasm
-6.	Brain Injury
+6.	Traumatic Brain Injury
 
 HAIL and its projected outcomes are intended to serve as a laboratory model for using Epidemiology, Biostatistics, Machine Learning, and Artificial Intelligence tools to provide healthcare screening and access for other diseases across the national landscape and for launching other healthcare access programs in India.
